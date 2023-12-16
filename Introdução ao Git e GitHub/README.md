@@ -39,6 +39,7 @@ git config --global user.name Caique
  #### Links legais:
 
  [Mark down - editor](https://readme.so/pt/editor)
+ 
  [Mark down - syntax](https://www.markdownguide.org/basic-syntax/)
 
 
