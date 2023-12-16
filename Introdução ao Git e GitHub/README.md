@@ -18,7 +18,7 @@ user.Email
 ```
 essas variavéis tem (até onde eu sei) três caminhos possíveis onde podem ser armazenada sendo elas:
 
-| --Global | Esta opção é usada para definir a configuração em nível global, ou seja, as configurações serão aplicadas a todos os repositórios do usuário no sistema|
+| --Global | Esta opção é usada para definir a configuração em nível global. as configurações serão aplicadas em todos os répositórios onde foi criada a variavel global|
 |----------|----------|
 |-- System| Referente as configurações so sistema | 
 | -- Local | Referente a um repositório especifico (só pode ser usada em repositório Git)|
