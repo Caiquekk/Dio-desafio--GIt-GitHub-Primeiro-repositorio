@@ -1,2 +1,2 @@
-# Dio-desafio--GIt-GitHub-Primeiro-reposit-rio
+# Dio-desafio--GIt-GitHub-Primeiro-repositório
 Desafio proposto pelo curso
