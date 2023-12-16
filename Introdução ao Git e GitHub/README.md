@@ -36,6 +36,11 @@ git config --global user.name Caique
 
  [Git configurações.](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git)
 
+ #### Links legais:
+
+ [Mark down - editor](https://readme.so/pt/editor)
+ [Mark down - syntax](https://www.markdownguide.org/basic-syntax/)
+
 
 
 
